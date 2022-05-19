@@ -27,12 +27,6 @@
 
   ## 
 
-<div align="center"><br>
-  <img align="center" alt="fundo" height="150em" width="1000em" src="/assets/starwars.jpg">
-</div><br>
-
-  ## 
-
 <div align="center">
   
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
